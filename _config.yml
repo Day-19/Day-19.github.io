@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7c0b91a9c13a7b9bd591                            #生成的clientID
   clientSecret: dc1bfa5008da69b349a0e77b5d1abc04db173d14    #生成的clientSecret
-  repo: http://dzldxy.com/    #仓库名称
+  repo: day-19.github.io    #仓库名称
   owner: Day-19    #github用户名
   admin: Day-19
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -78,7 +78,7 @@ ba_track_id: 0c1db18d69906928607819a93e131ef0
 
 # Google Analytics
 ga_track_id: 'UA-137145901-1'          # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: dzldxy.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
