@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7c0b91a9c13a7b9bd591                            #生成的clientID
   clientSecret: dc1bfa5008da69b349a0e77b5d1abc04db173d14    #生成的clientSecret
-  repo: day-19.github.io    #仓库名称
+  repo: http://dzldxy.com/    #仓库名称
   owner: Day-19    #github用户名
   admin: Day-19
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
