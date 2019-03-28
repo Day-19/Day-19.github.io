@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: Day-19
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 7c0b91a9c13a7b9bd591                            #生成的clientID
+  clientSecret: dc1bfa5008da69b349a0e77b5d1abc04db173d14    #生成的clientSecret
+  repo: day-19.github.io    #仓库名称
+  owner: Day-19    #github用户名
+  admin: Day-19
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 0c1db18d69906928607819a93e131ef0
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-137145901-1'          # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://www.jianshu.com/u/2884adbac0f5"
     },{
         title: "Apple",
         href: "https://apple.com"
