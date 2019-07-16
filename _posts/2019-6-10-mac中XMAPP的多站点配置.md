@@ -4,7 +4,7 @@ title:      如何在XMAPP中进行多站点配置       # 标题
 subtitle:   XMAPP多站点配置                 #副标题
 date:       2019-06-18                # 时间
 author:     Day                       # 作者
-header-img: img/post-bg-2019.png     #这篇文章标题背景图片
+header-img: img/post-bg-2019.jpg     #这篇文章标题背景图片
 catalog: true                        # 是否归档
 tags:                                 #标签
     - 配置工具
